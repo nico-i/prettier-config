@@ -17,14 +17,13 @@ jobs:
           bun-version: latest
 
       - name: Install dependencies
-        run: bun install
+        run: bun i
 
-      # Optional: Run tests
       - name: Run tests
         run: bun test
-      # Publish to npm
+        
       - name: Publish to npm
-        run: bun publish --ignore-scripts
+        run: bun publish --access public --ignore-scripts 
         env:
           HUSKY: 0
           NPM_CONFIG_TOKEN: ${{ secrets.NPM_TOKEN }}
