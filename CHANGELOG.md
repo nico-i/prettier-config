@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/nico-i/prettier-config/compare/v1.0.1...v1.0.2) (2024-11-12)
+
+
+### Miscellaneous Chores
+
+* release 1.0.2 ([6adc08d](https://github.com/nico-i/prettier-config/commit/6adc08ddac7d84841b004224282bd925ea647aa6))
+
 ## 1.0.1 (2024-11-12)
 
 
