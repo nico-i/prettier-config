@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.0.1 (2024-11-12)
+
+
+### Features
+
+* migrated from monorepo ([c331004](https://github.com/nico-i/prettier-config/commit/c331004ee3f4294c395dfd076b1ade95cca1c1af))
+
+
+### Bug Fixes
+
+* corrected changelog ([9009321](https://github.com/nico-i/prettier-config/commit/90093212321b0d649da858fa9cabb72f6ad218d9))
+
+
+### Miscellaneous Chores
+
+* release 1.0.1 ([8a08d48](https://github.com/nico-i/prettier-config/commit/8a08d48689aab329c6048a6b26192f8e49fde1d0))
+
 ## 1.0.0 (2024-02-13)
 
 
