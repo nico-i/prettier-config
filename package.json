@@ -21,6 +21,7 @@
   "peerDependencies": {
     "prettier": ">=3.3.3"
   },
+  "main": "index.js",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
@@ -30,7 +31,7 @@
   "devDependencies": {
     "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^19.5.0",
-    "@nico-i/eslint-config": "2.5.0",
+    "@nico-i/eslint-config": "^2.6.0",
     "@types/bun": "latest",
     "commitlint-plugin-spend": "^1.0.1",
     "eslint": "^9.14.0",

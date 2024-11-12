@@ -1,3 +1,3 @@
-import configs from '@nico-i/eslint-config/index.mjs';
+import configs from '@nico-i/eslint-config';
 
 export default configs;
