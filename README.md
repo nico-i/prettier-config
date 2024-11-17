@@ -1,3 +1,3 @@
-# @nico-i/eslint-config
+# @nico-i/prettier-config
 
-This package provides a shared ESLint configuration for all my projects.
+This package provides a shared prettier configuration for all my projects.
